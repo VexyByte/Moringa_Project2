@@ -29,3 +29,26 @@
     padding: 10px;
     margin: 0px 10px 0px 10px;
 }
+.picsleft{
+    width: 70%;
+    float: left;
+    background-color: rgb(208, 205, 224);
+}
+.picsright{
+    background-color: rgb(164, 187, 187);
+    width: 30%;
+    float: right;
+}
+.uppertop{
+     background-color: rgb(167, 166, 165);
+}
+.uppertop h1{
+    text-align: center;
+    color: rgb(4, 17, 202);
+    padding: 5px;
+    margin: 0;
+   
+}
+.footer{
+    width: 100&;
+}
